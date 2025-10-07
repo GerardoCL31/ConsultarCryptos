@@ -1,4 +1,7 @@
+## 📄 Documentación
 
+Puedes consultar el documento completo aquí:  
+👉 [Abrir PDF ConsultarCryptos](./ConsultarCryptos.pdf)
 
 # 1) Clona el repo
 git clone https://github.com/GerardoCL31/ConsultarCryptos
